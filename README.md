@@ -6,7 +6,7 @@ test repo for learning
 print (a+b)
 ```
 
-##LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) 2019  K Vijith 
